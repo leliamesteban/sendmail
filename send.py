@@ -1,9 +1,9 @@
 import smtplib
 
 sender = 's3nd3m41L@gmail.com'
-to = ['s3nd3m41L@gmail.com']
 gmail_user = 's3nd3m41L@gmail.com'
 gmail_password = 'lapel status preamble petticoat cement'
+to = 's3nd3m41L@gmail.com'
 subject = ''
 body = ''
 
